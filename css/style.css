@@ -1,5 +1,40 @@
 *{
     box-sizing: border-box;
+}
+body{
+    margin: 0 50px;
+    padding: 0;
+    background-color: #fff1e6;
+    font-family: Helvetica, Verdana, Arial;
+}
+/*
+header{
+    overflow: hidden;
+    background-color: red;
+    display: block;
+    top: 0;
+}
+header .logo{
+    height: 30px;
+    width: 30px;
+    margin: 5px;
+    padding: 5px;
+}
+nav{
+    width: 80%;
+    top: 0;
+    
+}
+nav ul{
+    list-style-type: none;
     margin: 0;
     padding: 0;
 }
+nav ul li{
+    float: left;
+}
+nav ul li a{
+    display: block;
+    padding: 8px;
+}
+*/
