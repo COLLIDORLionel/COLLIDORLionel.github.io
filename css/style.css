@@ -4,7 +4,7 @@
 body{
     margin: 0 50px;
     padding: 0;
-    background-color: #fff1e6;
+    /*background-color: #fff1e6;*/
     font-family: Helvetica, Verdana, Arial;
 }
 
@@ -37,4 +37,31 @@ nav ul li{
 nav ul li a{
     display: block;
     padding: 8px;
+}
+main{
+    margin: 50px;
+    padding: 10px;
+}
+main p{
+    padding: 5px 10px;
+    margin: 0 15px;
+    font-size: medium;
+    color: dodgerblue;
+}
+main p span{
+    font-weight: bold;
+    font-size: large;
+}
+main img{
+    height: 600px;
+}
+footer{
+    margin: 10px;
+    padding: 5px;
+    background-color: #dddcdc;
+
+}
+footer .credits{
+    color: black;
+    font-size: small;
 }
